@@ -41,19 +41,6 @@ Before using this script, ensure that you have:
    python ongage_excel_automation.py
    ```
 
-## Configuration
-
-Edit the `config.py` file to include your Ongage API credentials and configure any other settings as needed.
-
-```python
-# Ongage API Credentials
-ONGAGE_API_KEY = 'your_api_key'
-ONGAGE_SECRET_KEY = 'your_secret_key'
-
-# Other Configuration Options
-# ...
-```
-
 ## Support and Contributions
 
 If you encounter any issues or have suggestions for improvement, please open an issue on the [GitHub repository](https://github.com/yourusername/ongage-excel-automation). Contributions are welcome!
